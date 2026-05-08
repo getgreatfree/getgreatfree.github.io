@@ -6,7 +6,15 @@
     <description>Recent content on 我的个人博客</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
+    <lastBuildDate>Fri, 08 May 2026 14:13:47 +0800</lastBuildDate>
     <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>第一篇博客</title>
+      <link>https://example.org/posts/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Fri, 08 May 2026 14:13:47 +0800</pubDate>
+      <guid>https://example.org/posts/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
+      <description>&lt;p&gt;今天很开心，第一次开通hugo,希望能坚持永久不说假话。不畏浮云遮望眼!public and hugo private ?&lt;/p&gt;</description>
+    </item>
     <item>
       <title></title>
       <link>https://example.org/posts/test/</link>
